@@ -1,1 +1,1 @@
-# learningGit
+How to use the site
